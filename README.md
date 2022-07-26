@@ -4,7 +4,7 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Kesemb
 
 **11-29 April 2022**  
 
-**1. Build and Secure Networks in Google Cloud**
+**1. Build and Secure Networks in Google Cloud**  
   * Lab. Securing Virtual Machines using BeyondCorp Enterprise (BCE)
   * Lab. Multiple VPC Networks
   * Lab. VPC Networks - Controlling Access
@@ -12,7 +12,7 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Kesemb
   * Lab. Create an Internal Load Balancer
   * Lab. Build and Secure Networks in Google Cloud: Challenge Lab
   
-**2. Monitor and Log with Google Cloud Operations Suite**
+**2. Monitor and Log with Google Cloud Operations Suite**  
   * Lab. Cloud Monitoring: Qwik Start
   * Lab. Monitoring Multiple Projects with Cloud Monitoring
   * Lab. Monitoring and Logging for Cloud Functions
